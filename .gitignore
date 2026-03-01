@@ -1,0 +1,4 @@
+_logs/
+_archives/
+*.log
+*.tmp
