@@ -1,0 +1,4 @@
+remote:
+  agents:
+    - url: "10.234.1.185:7007"
+      name: "NAS"
