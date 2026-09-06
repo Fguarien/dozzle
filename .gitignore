@@ -42,3 +42,5 @@ postgres/postmaster.pid
 # ── Prometheus TSDB (ajout auto v4.4) ───────────────────
 prometheus/data/
 @eaDir/
+docker-compose.yml
+docker-compose.yml.*
